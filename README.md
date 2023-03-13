@@ -1,5 +1,6 @@
 # NoHantei
 
+No-Hantei means 'No Judgement'.
 Welcome to our HTML and CSS-powered website! Our platform is a safe and inclusive space for people to connect and share their thoughts and interests with others, without any fear of judgement or discrimination.
 
 We've designed our site to be similar to Discord, with channels and groups for users to create based on their personal interests, hobbies, or experiences. Whether you're passionate about music, art, books, or mental health, there's a community waiting for you to join and share your voice.
